@@ -4,7 +4,7 @@ Cute little runners for your macOS menu bar 🐾✨
 
 
 <p align='center'>
-<img src='preview.png' width='500px'> 
+<img src='preview.png' width='700px'> 
 </figcaption>
 </p>
 
