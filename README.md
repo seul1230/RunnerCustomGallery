@@ -25,6 +25,7 @@ Cute little runners for your macOS menu bar 🐾✨
 ## Avaliable Runners
 
 
-- [x] Kirby
+- [x] Walking Knight Kirby 🗡️
+- [x] Hammer Kirby 🔨  
 - [ ] Coming Soon..
 
