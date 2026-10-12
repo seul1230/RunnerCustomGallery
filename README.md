@@ -27,5 +27,8 @@ Cute little runners for your macOS menu bar 🐾✨
 
 - [x] Walking Knight Kirby 🗡️
 - [x] Hammer Kirby 🔨  
+- [x] Chiikawa Bingsu 🍧 : 먼작귀 빙수 (치이카와, 하치와레, 우사기)
+- [x] Chiikawa Samchongsa 🌱 : 신난 먼작귀 (치이카와, 하치와레, 우사기)
+- [x] Usagi Beam ⭐️ : 우사기 눈에서 빔
 - [ ] Coming Soon..
 
